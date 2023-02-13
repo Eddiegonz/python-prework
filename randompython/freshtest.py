@@ -14,3 +14,6 @@ my_dict = {
 
 my_dict.append ("age" :14)
 print(my_dict["age"])
+
+odd_numbers = list(range(1,100,2))
+print(odd_numbers)
